@@ -1,10 +1,10 @@
 This program is designed to AES encrypt and decrypt files
 
 Usage:
-args '-f' stands for file and it's followed by the filename you want to encrypt or decrypt
+args '-f' stands for file and then it's followed by the filename you want to encrypt or decrypt
 args '-e' stands for encrypt
 args '-d' stands for decrypt
-args '-p' is for password then it's followed by the password you want to use to encrypt or decrypt
+args '-p' is for password and then it's followed by the password you want to use to encrypt or decrypt
 
 examples:
 python Enc&Dec.py -f Secret.txt -e -p SuperSecretKey
